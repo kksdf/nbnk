@@ -32,6 +32,7 @@
             "value": "https://raw.githubusercontent.com/ufyurer/heromoer/main/etc/StoreFiles"
         }
     },
-    "repository": "",
+    "website": "https://github.com/nbnk",
+    "repository": "https://github.com/nbnk",
     "stack": "container"
 }
